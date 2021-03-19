@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi, I'm David! :technologist: 👋
 
-<!--
-**jdavid-araujo/jdavid-araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you're here, it means you should follow me! :bowtie: 
+Dont hesitate do tell me your impressions and how I should build this better!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as Lead Engineer
+- 🌱 I have experience with Java, Javascript, Typescript, NodeJS, Angular, Docker and Kubernetes.
+- 👯 I’m looking to collaborate on projects that makes people lives better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Find me here:
+
+[![Github](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)](https://github.com/jdavid-araujo)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-araujo/)
+
+My GitHub info:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdavid-araujo&layout=compact&theme=tokyonight)](https://github.com/jdavid-araujo/github-readme-stats)
+
+![Levy GitHub stats](https://github-readme-stats.vercel.app/api?username=jdavid-araujo&show_icons=true&theme=tokyonight)
