@@ -1,7 +1,4 @@
-## Hi, I'm David! :technologist: 👋
-
-If you're here, it means you should follow me! :bowtie: 
-Dont hesitate do tell me your impressions and how I should build this better!
+## Hi, I'm David!
 
 - 🔭 I’m currently working as Lead Engineer
 - 🌱 I have experience with Java, Javascript, Typescript, NodeJS, Angular, Docker and Kubernetes.
@@ -16,4 +13,4 @@ My GitHub info:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdavid-araujo&layout=compact&theme=tokyonight)](https://github.com/jdavid-araujo/github-readme-stats)
 
-![Levy GitHub stats](https://github-readme-stats.vercel.app/api?username=jdavid-araujo&show_icons=true&theme=tokyonight)
+![David GitHub stats](https://github-readme-stats.vercel.app/api?username=jdavid-araujo&show_icons=true&theme=tokyonight)
